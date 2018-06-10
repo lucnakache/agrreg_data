@@ -1,0 +1,214 @@
+page	nom	annee	lieu	other	rec	domaine
+34	DALECHAMPS	1880	Clermont-Ferrand			construction - travaux publics
+34	FERRIER	1880	Nice;Var			construction - travaux publics
+34	GALEOTTI	1880	Faenza; Florence			construction - travaux publics
+34	GUYON	1880				construction - travaux publics
+34	LAVEZZARI	1880				construction - travaux publics
+34	LEFEVRE	1880		Compagnie du Canal de Panama		construction - travaux publics
+34	LELOUP	1880				construction - travaux publics
+34	LOTH	1880	Franche-Comté	Compagnie du Canal de Suez		construction - travaux publics
+34	MARTINET	1880				construction - travaux publics
+34	MITTON	1880				construction - travaux publics
+34	NATANSON	1880		Compagnie du Canal de Panama		construction - travaux publics
+34	PETIT	1880	Anvers; basse-loire; Chili			construction - travaux publics
+34	RABAN	1880	France			construction - travaux publics
+34	RÉGNIER	1880				construction - travaux publics
+34	SAINZ	1880		Compagnie du Canal de Suez		construction - travaux publics
+34	SERVICEN	1880	Algérie; Constantinople	Compagnie des Chemins de fer de l'Ouest algérien		construction - travaux publics
+34	SIROS	1880				construction - travaux publics
+34	ZANNÉ	1880	Bucarest			construction - travaux publics
+34	AMAND	1881	Bleyberg	Société française des mines d'Escombrera-Bleyberg		construction - travaux publics
+34	AMBLARD	1881				construction - travaux publics
+34	BALDAUFF	1881	Tunis	Société des Eaux et du Gaz de Tunis	Prix à l'Exposition de Tunis	construction - travaux publics
+34	BRISSE	1881	Saint-Étienne; Rosières; 	Compagnie du Canal interocéanique		construction - travaux publics
+34	BROCQ	1881				construction - travaux publics
+34	BROUSSE	1881				construction - travaux publics
+34	CHARPENTIER	1881				construction - travaux publics
+34	COMBES	1881				construction - travaux publics
+34	COTE	1881	Le Havre	forges et chantiers de la Méditerranée; arsenal de la flottille roumaine		construction - travaux publics
+34	FERTRAY	1881		Compagnie du Canal interocéanique		construction - travaux publics
+34	FIVEL	1881				construction - travaux publics
+34	GASSAUD	1881	Paris; Seine			construction - travaux publics
+34	GIGNOUX	1881				construction - travaux publics
+34	GONSSOLIN	1881	Corinthe	Entreprise générale du percement de l'Isthme de Corinthe		construction - travaux publics
+34	HENRY	1881		Compagnie du Canal de Suez		construction - travaux publics
+34	JACQUEY	1881	Saint-Valéry-en-Caux; Le Havre			construction - travaux publics
+34	MAGLIN	1881				construction - travaux publics
+34	MATTOS (DE)	1881	Taubaté; Brésil			construction - travaux publics
+34	MÉDEBIELLE	1881	Constantinople	Compagnie des eaux de Constantinople		construction - travaux publics
+34	REUSSNER	1881		Compagnie du Canal de Suez		construction - travaux publics
+34	ROGER	1881	Le Havre	Compagnie du Canal de Panama		construction - travaux publics
+117	TAINTURIER	1883				gaz - électricité
+117	BARILLET	1884	Paris	compagnie parisienne du gaz		gaz - électricité
+117	BARON	1884	Paris	compagnie parisienne du gaz		gaz - électricité
+117	BORIAS	1884	Carcassonne			gaz - électricité
+117	CHARRUYER	1884	Fère-en-Tardenois			gaz - électricité
+117	GORVEL	1884	Paris	compagnie parisienne du gaz		gaz - électricité
+117	LAVERGNE	1884				gaz - électricité
+117	LEBON	1884	Seine-et-Oise			gaz - électricité
+117	MEYER	1884	Anzin			gaz - électricité
+117	RIBES- CHAMPETIER (DE)	1884				gaz - électricité
+117	RODET	1884				gaz - électricité
+117	TOUSSAINT	1884	Barcelone			gaz - électricité
+117	BARBOU	1885				gaz - électricité
+117	BERNHEIM	1885				gaz - électricité
+117	CIVILLE (DE)	1885	Deauville-sur-Mer			gaz - électricité
+117	MIET	1885				gaz - électricité
+117	MORACHE	1885	Bessèges; Le Vigan; Saint-Hyppolyte; Anduze			gaz - électricité
+117	NORMANDIN	1885	Montpellier; Anzin			gaz - électricité
+117	RAYNAUD	1885				gaz - électricité
+117	ROMANN	1885				gaz - électricité
+117	ZIPÉLIUS	1885				gaz - électricité
+117	BOCHET	1886				gaz - électricité
+117	GUYOT-SIONNES	1886				gaz - électricité
+117	HENRIQUE	1886	Paris			gaz - électricité
+117	KOCH	1886				gaz - électricité
+117	KOECHLIN	1886	Alsace	Société alsacienne de constructions mécaniques		gaz - électricité
+117	LÉNIAU	1886				gaz - électricité
+117	RÉMON	1886				gaz - électricité
+117	VITRY-D'AVAUCOURT (DE)	1886	France			gaz - électricité
+117	AZARIA	1887	Normandie			gaz - électricité
+117	CHAUVEAU	1887				gaz - électricité
+117	DENIZOT	1887	Saint-Josse-ten-Noode	Compagnie du gaz de Saint-Josse-ten-Noode		gaz - électricité
+117	DESAULLES	1887				gaz - électricité
+117	FRANCART	1887		Chemin de fer du Nord		gaz - électricité
+117	ROUSSELLE	1887	Paris	Compagnie parisienne de l'air comprimé		gaz - électricité
+117	VERNIER	1887				gaz - électricité
+117	JOUBERT	1888				gaz - électricité
+117	ODIER	1888				gaz - électricité
+117	VIGREUX	1888				gaz - électricité
+61	STEINHEIL	1877	Rio-Grande-do-Sul	 Chemin de fer de Rio-Grande-do-Sul; Compagnie du Canal de Panama		chemin de fer
+61	THIBAULT	1877				chemin de fer
+61	THOMAS	1877				chemin de fer
+61	THUILLEAUX	1877		Chemins de fer de l'Est		chemin de fer
+61	TROTTIER	1877				chemin de fer
+61	VALLON (DE)	1877				chemin de fer
+61	VINOT	1877		Chemins de fer du Midi		chemin de fer
+61	ZIMMERMANN	1877	Le Creusot	Chemins de fer du Nord		chemin de fer
+61	ALBARET	1878		Compagnie des Chemins de fer Paris-Lyon-Méditerranée		chemin de fer
+61	ARCHDÉACON	1878		Compagnie du Chemin de fer du Nord		chemin de fer
+61	BASTIDE	1878				chemin de fer
+61	BERMONT	1878		Chemins de fer de l'Ouest	Médaille de vermeil;  Médaille d'or;  Médaille d'or;	chemin de fer
+61	BOCA	1878	Nantes; Nogent			chemin de fer
+61	CANOVETTI	1878	Quartier Marbeuf; Paris; Brescia	Pavillon de la Bolivie (exposition universelle)		chemin de fer
+61	CHAILLAUX	1878	Port-Louis	Chemins de fer de l'Est		chemin de fer
+61	COSMOVICI	1878	Roumanie	Chemins de fer de l'État roumain		chemin de fer
+61	DELAPORTE	1878		Compagnie du Chemin de fer du Nord		chemin de fer
+61	DENEUX	1878	Arcachon			chemin de fer
+61	DENIS	1878		Compagnie des Chemins de fer Paris-Lyon-Méditerranée; Compagnie du Canal de Panama		chemin de fer
+61	DOR	1878				chemin de fer
+61	EUDE	1878	La Beira Alta	Chemin de fer de la Beïra-Alta		chemin de fer
+61	FRÉMINVILLE (DELApoix DE)	1878	Orléans	Chemin de fer d'Orléans		chemin de fer
+61	GOHIN	1878				chemin de fer
+61	GOYARD	1878	Thessalie	Chemin de fer de Thessalie		chemin de fer
+61	GUÉRIN	1878	Saint-Denis	Chemin de fer du Nord		chemin de fer
+61	GUIDOUX	1878	 Rio-Grande-do-Sul	Chemin de fer du Nord; Compagnie Impériale du Chemin de fer de Rio-Grande-do-Sul		chemin de fer
+61	GURAN	1878	Roumanie; Bucarest; Cetroceni	Direction des chemins de fer roumains		chemin de fer
+61	HERR	1878		Chemins de fer du Midi		chemin de fer
+61	IMBLON	1878	Paris; Egypte; Djemsah; Djebel Zeit; Mer rouge			chemin de fer
+61	KOMAR	1878		Compagnie du Canal de Panama		chemin de fer
+61	LOPÈS-DIAS	1878	Ariège; Orléans			chemin de fer
+61	MICHAUX	1878		Compagnie des Chemins de fer Paris-Lyon-Méditerranée		chemin de fer
+61	MIGNOT	1878				chemin de fer
+61	MINO	1878	Algérie	Compagnie des Chemins de fer de l'Est algérien		chemin de fer
+61	MONTERO-PAULLIER	1878	Montevideo			chemin de fer
+108	LAFITTE	1874				mines-carrières-salnes
+108	ROBERT DE LA MAHOTIÈRE	1874	Valparaiso; Chanaral; Antofagasta; Araucanie; Uctoria			mines-carrières-salnes
+108	BAZIRE	1875	Bert	Compagnie des Chemins de fer Paris-Lyon-Méditerranée		mines-carrières-salnes
+108	COLAS	1875	Oum-Théboul			mines-carrières-salnes
+108	COSTE	1875	Firminy; Quiros; Chasse			mines-carrières-salnes
+108	COUDERC	1875	Falgueyrat; Cuzorn	"Chemin de fer du Nord; Société minière du
+Sud-Ouest"		mines-carrières-salnes
+108	LECLAIRE	1875	Blanzy			mines-carrières-salnes
+108	PARENT	1875	Anzin			mines-carrières-salnes
+108	PÉTREQUIN	1875	Tullins; Lyon	"mines de cuivre de Saint-Jean-du-Gard;  Société des ciments de l'Hérault; Société générale des carrières
+du Midi"		mines-carrières-salnes
+108	ROBINOT - MARCY	1875	Pontgibaud;			mines-carrières-salnes
+108	DRUGE	1876	Blanzy			mines-carrières-salnes
+108	LLAMBY (DE)	1876	Prades; aint-Pol-Lias; Malaisie; Quiros; Perpignan; Cascaès	Compagnie des mines d'or du Mozambique		mines-carrières-salnes
+108	MICHAUD	1876	Penarroya; Alicante	Compagnie du Chemin de fer de Madrid à Sarragosse; 		mines-carrières-salnes
+108	AROZARÉNA (DE)	1877	San José de Malezas; La Havane	Chemin de fer de Lyon		mines-carrières-salnes
+108	BÉRAIL	1877	Laurium			mines-carrières-salnes
+108	CHAMUSSY	1877	Romanèche		Médaille d'argent	mines-carrières-salnes
+108	DUPONT DE DINECHIN	1877	Blanzy			mines-carrières-salnes
+108	PRAT	1877	Mokta-el-Hadid; Bucarest			mines-carrières-salnes
+108	WOLFF	1877	Hafna			mines-carrières-salnes
+108	LAFORGUE	1878				mines-carrières-salnes
+108	LEROY	1878	Lens			mines-carrières-salnes
+108	MANDRAS	1878	Sérifos 			mines-carrières-salnes
+108	MOUGIN	1878	Calais; Leulinos			mines-carrières-salnes
+108	PIRCKHER	1878	Béthune			mines-carrières-salnes
+108	AGREDA (DE)	1879	Colorado			mines-carrières-salnes
+108	DEBENOIST	1879	Marseille			mines-carrières-salnes
+108	DUTHU	1879	Ria			mines-carrières-salnes
+108	GOUVY	1879	Resicza	Société austro-hongroise privilégiée des Chemins de fer de l'État		mines-carrières-salnes
+108	RENÉVILLE	1879	La Mure			mines-carrières-salnes
+108	FONTAINE	1880	Courrières			mines-carrières-salnes
+108	MOURGUES	1880	Grenade			mines-carrières-salnes
+108	AMAND	1881	Bleyberg			mines-carrières-salnes
+14	GOSCHLER	1840	Constantinople	Chemin de fer de l'Est; de fer Hainaut et Flandres; Chemins de fer de Turquie		CONSTRUCTION -  TRAVAUX PUBLICS
+14	MEUNIER	1840	AIX			CONSTRUCTION -  TRAVAUX PUBLICS
+14	SCHMITT	1840	Deux-Sèvres			CONSTRUCTION -  TRAVAUX PUBLICS
+14	TRÉLAT	1840	Seine	Conseil supérieur de l'Assistance publique et de l'Institut royal des architectes britanniques	Médaille d'argent; Médaille d'or	CONSTRUCTION -  TRAVAUX PUBLICS
+14	COURAU	1841				CONSTRUCTION -  TRAVAUX PUBLICS
+14	GIRARD	1841		distribution d'eau de Langres		CONSTRUCTION -  TRAVAUX PUBLICS
+14	GONSSOLIN	1841				CONSTRUCTION -  TRAVAUX PUBLICS
+14	GUIBAL	1841	Toulouse			CONSTRUCTION -  TRAVAUX PUBLICS
+14	KRAFFT	1841				CONSTRUCTION -  TRAVAUX PUBLICS
+14	MARTIN	1841	Bourg; Ain; Brou	Société académique d'architecture de Lyon		CONSTRUCTION -  TRAVAUX PUBLICS
+14	VOLLAND	1841	Loir-et-Cher			CONSTRUCTION -  TRAVAUX PUBLICS
+14	BARROUX	1842	Toulon	Chemins de fer de l'Est		CONSTRUCTION -  TRAVAUX PUBLICS
+14	GIROUD	1842	Rhône			CONSTRUCTION -  TRAVAUX PUBLICS
+14	GUILLOT DE SUDUIRAUT	1842	Espagne; Gironde			CONSTRUCTION -  TRAVAUX PUBLICS
+14	MAUSS	1842				CONSTRUCTION -  TRAVAUX PUBLICS
+14	MOUREAUX	1842				CONSTRUCTION -  TRAVAUX PUBLICS
+14	BORDREAU	1843				CONSTRUCTION -  TRAVAUX PUBLICS
+14	DURAND	1843	la Chapelle-Saint-Denis			CONSTRUCTION -  TRAVAUX PUBLICS
+14	GRÜN	1843	Guebwiller; Altkirch			CONSTRUCTION -  TRAVAUX PUBLICS
+14	MILHANT	1843	Puget-Théniers			CONSTRUCTION -  TRAVAUX PUBLICS
+14	POTTIER	1843		Compagnie des Chemins de fer de l'Est 		CONSTRUCTION -  TRAVAUX PUBLICS
+14	PURY (DE)	1843	Neufchâtel			CONSTRUCTION -  TRAVAUX PUBLICS
+14	QUÉTIL	1843	Haïti	Texas - Pacific; Chemins de fer de la Nouvelle-Ecosse; 		CONSTRUCTION -  TRAVAUX PUBLICS
+14	REIVEILLIEZ	1843				CONSTRUCTION -  TRAVAUX PUBLICS
+14	TOUZIS	1843	Mauléon; Orthez; Basses-Pyrénées; Pau			CONSTRUCTION -  TRAVAUX PUBLICS
+14	GISPERT (DE)	1844	Barcelone; Mayorque			CONSTRUCTION -  TRAVAUX PUBLICS
+14	GUELLE	1844	Toulon			CONSTRUCTION -  TRAVAUX PUBLICS
+14	HUBERT	1844	Mons		Médaille d'or; Médaille d'or	CONSTRUCTION -  TRAVAUX PUBLICS
+14	LEMUHOT	1844	Chili			CONSTRUCTION -  TRAVAUX PUBLICS
+14	MULLER	1844	Mulhouse; Ivry-sur-Seine;		Médaille de 1ere classe; médaille d'argent; médaille de bronze; Médaille d'or;  médaille d'argent; médaille de bronze	CONSTRUCTION -  TRAVAUX PUBLICS
+14	PONCET	1844	Montmerle			CONSTRUCTION -  TRAVAUX PUBLICS
+14	RICHE	1844		Canal maritime de Suez		CONSTRUCTION -  TRAVAUX PUBLICS
+14	ZAWADSKI	1844				CONSTRUCTION -  TRAVAUX PUBLICS
+97	OSMOND	1872	Denain; Le Creusot			métallurgie
+97	PERRAUDIN	1872	Verderat; Saint-Montant; Huta-Bankowa			
+97	ROGER	1872				
+97	SINSON- SAINT -ALBIN	1872				
+97	TARDY	1872	Belmez; Le Mont-du-Chat			
+97	VALENCIENNES	1872	Chlewiska; Russie			
+97	BALTHASAR DE GACHÉO (DE)	1873	Moyeuvre			
+97	BARATIER	1873				
+97	CHAMBRIER (DE)	1873	Ancy-le-Franc	Société anonyme des forges de Châtillon- Commentry		
+97	CICHOWSKI	1873	Starachowice; Ostrowiec	"construction du Chemin de fer d'Iwangrod-Dombrowa
+"		
+97	DUMAS	1873	Commentry		Médaille d'or; Médaille d'or	
+97	GARNIER	1873				
+97	GUEYTON	1873	Romilly-sur-Andelle			
+97	GUIRAUD	1873	Decazeville			
+97	JANZÉ (DE)	1873	Aubin	Société anonyme de Tergnier-Fargnier		
+97	KNAB	1873	Le Creusot; Redon; Hussigny; Seine			
+97	LALIGANT	1873	El Hallia; Filfila			
+97	LAPRADE	1873	Le Creusot; Tarbes			
+97	LARDY	1873	Fourchambault			
+97	LEQUEUX	1873	Romilly			
+97	MÉNARDIÈRE (ARNAULT DE LA)	1873	Stenay			
+97	SAGLIO	1873				
+97	VINCENT	1873	Saint-Louis			
+97	BONNAIRE	1874	Bessèges; Saint-Roch			
+97	BOUTRY	1874	Ahun			
+97	CHABRAND	1874	Toga; Braux; Stenay	Société des aciéries du Saut-du-Tarn		
+97	MONTANDON	1874	Marnaval			
+97	MONTGOLFIER (DE)	1874	Givors			
+97	MOREL	1874	Lyon; Mâcon			
+97	ROBERT DE LA MAHOTIÈRE (CHARLES)	1874	Valparaiso; Chanaral; Antofagasta; Araucanie; Uctoria			
+97	AINVAL (million D')	1875	Balaruc; 	Compagnie du Midi; Compagnie d'Orléans		
+97	ANDELLE	1875	Épinac; Saint-Nazaire			
